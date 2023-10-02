@@ -1,4 +1,4 @@
-module roci.dev/fracdex
+module github.com/gallery-so/fracdex
 
 go 1.14
 
